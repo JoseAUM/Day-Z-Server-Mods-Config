@@ -22,7 +22,7 @@
 		<file path="env/the_last_of_us_territories.xml" />
 		<file path="env/wendigo_territories.xml" />
 
-		<territory type="Herd" name="Bloodsucker" behavior="DZdomesticGroupBeh">
+		<!-- <territory type="Herd" name="Bloodsucker" behavior="DZdomesticGroupBeh">
 			<file usable="bloodsucker_territories"/>
 		</territory>
 		<territory type="Herd" name="Spider" behavior="DZdomesticGroupBeh">
@@ -36,7 +36,7 @@
 		</territory>
 		<territory type="Herd" name="Wendigo" behavior="DZdomesticGroupBeh">
 			<file usable="wendigo_territories"/>
-		</territory>
+		</territory>  -->
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
