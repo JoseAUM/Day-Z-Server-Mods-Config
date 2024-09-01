@@ -1556,8 +1556,20 @@
 		<pos x="14297.227539" y="1.070972" z="13244.783203" a="261.999641" />
 	</event>
 
+	<!-- BLOOD SUCKER MOD -->
+	<event name="InfectedBloodsucker" />
+
+	<!-- SPIDER MOD -->
+	<event name="AnimalSpider" />
+
+	<!-- STALKER MOD -->
+	<event name="InfectedStalkerSnorkers" />
+
+	<!-- THE LAST OF US MOBS MOD -->
+	<event name="InfectedTheLastOfUs" />
+
 	<!-- WENDIGO MOD -->
-	<event name="WendigoCity" />
-	<event name="WendigoVillage" />
-	<event name="WendigoIndustrial" />
+	<event name="InfectedWendigoCity" />
+	<event name="InfectedWendigoVillage" />
+	<event name="InfectedWendigoIndustrial" />
 </eventposdef>

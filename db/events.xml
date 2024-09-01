@@ -1166,7 +1166,7 @@
     </event>
 
     <!-- STALKER MOD -->
-    <event name="StalkerSnorkers">
+    <event name="InfectedStalkerSnorkers">
         <nominal>50</nominal>
         <min>14</min>
         <max>26</max>
@@ -1186,7 +1186,7 @@
     </event>
 
     <!-- THE LAST OF US MOBS MOD -->
-    <event name="TheLastOfUs">
+    <event name="InfectedTheLastOfUs">
         <nominal>50</nominal>
         <min>14</min>
         <max>26</max>
@@ -1207,7 +1207,7 @@
     </event>
 
     <!-- WENDIGO MOD -->
-    <event name="WendigoIndustrial">
+    <event name="InfectedWendigoIndustrial">
         <nominal>50</nominal>
         <min>5</min>
         <max>12</max>
@@ -1224,7 +1224,7 @@
             <child lootmax="5" lootmin="0" max="0" min="40" type="Creature_Wendigo"/>
         </children>
     </event>
-    <event name="WendigoVillage">
+    <event name="InfectedWendigoVillage">
         <nominal>50</nominal>
         <min>5</min>
         <max>12</max>
@@ -1241,7 +1241,7 @@
             <child lootmax="5" lootmin="0" max="0" min="20" type="Creature_Wendigo"/>
         </children>
     </event>
-    <event name="WendigoCity">
+    <event name="InfectedWendigoCity">
         <nominal>50</nominal>
         <min>5</min>
         <max>12</max>
