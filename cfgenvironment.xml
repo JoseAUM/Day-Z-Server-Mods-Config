@@ -21,6 +21,8 @@
 		<file path="env/stalker_snorkers.xml" />
 		<file path="env/the_last_of_us_territories.xml" />
 		<file path="env/wendigo_territories.xml" />
+		<file path="env/morewolves_territories.xml" />
+		<file path="env/morebears_territories.xml" />
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
@@ -48,6 +50,42 @@
 		</territory>
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
+		</territory>
+
+		<!-- MORE WOLVES MOD -->
+		<territory type="Ambient" name="AmbientWolf" behavior="DZWolfGroupBeh">
+			<file usable="morewolves_territories" />
+			<!-- different agent types - class has to begin with AgentType:w -->
+			<agent type="Male" chance="1">
+				<spawn configName="Animal_InfectedWolf" chance="1" />
+			</agent>
+			<agent type="Female" chance="3">
+				<spawn configName="Animal_GermanShepherd" chance="1" />
+			</agent>
+
+			<item name="globalCountMax" val="30" />
+			<item name="zoneCountMin" val="0" />
+			<item name="zoneCountMax" val="3" />
+			<item name="playerSpawnRadiusNear" val="100" />
+			<item name="playerSpawnRadiusFar" val="200" />
+		</territory>
+
+		<!-- MOREBEARS -->
+		<territory type="Ambient" name="AmbientBear" behavior="BlissBearGroupBeh">
+			<file usable="morebears_territories" />
+			<!-- different agent types - class has to begin with AgentType:w -->
+			<agent type="Male" chance="1">
+				<spawn configName="Animal_InfectedBear" chance="1" />
+			</agent>
+			<agent type="Female" chance="3">
+				<spawn configName="Animal_InfectedBear" chance="1" />
+			</agent>
+
+			<item name="globalCountMax" val="30" />
+			<item name="zoneCountMin" val="1" />
+			<item name="zoneCountMax" val="1" />
+			<item name="playerSpawnRadiusNear" val="100" />
+			<item name="playerSpawnRadiusFar" val="200" />
 		</territory>
 
 		<!-- HEN -->

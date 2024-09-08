@@ -1572,4 +1572,9 @@
 	<event name="InfectedWendigoCity" />
 	<event name="InfectedWendigoVillage" />
 	<event name="InfectedWendigoIndustrial" />
+
+	<!-- MORE WOLVES MOD -->
+	<event name="AnimalWolf" />
+	<event name="AmbientWolf" />
+	<event name="AmbientBear" />
 </eventposdef>
