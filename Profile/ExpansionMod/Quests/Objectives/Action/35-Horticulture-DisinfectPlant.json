@@ -1,14 +1,12 @@
 {
-    "ConfigVersion": 28,
-    "ID": 35,
-    "ObjectiveType": 10,
-    "ObjectiveText": "",
-    "TimeLimit": -1,
-    "Active": 1,
-    "ActionNames": [
-        "ActionDisinfectPlant"
-    ],
-    "AllowedClassNames": [],
-    "ExcludedClassNames": [],
-    "ExecutionAmount": 1
+  "ConfigVersion": 28,
+  "ID": 35,
+  "ObjectiveType": 10,
+  "ObjectiveText": "",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": ["ActionDisinfectPlant"],
+  "AllowedClassNames": [],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1
 }

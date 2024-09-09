@@ -33,12 +33,8 @@
   "RandomRewardAmount": -1,
   "RewardsForGroupOwnerOnly": 1,
   "RewardBehavior": 0,
-  "QuestGiverIDs": [
-    1
-  ],
-  "QuestTurnInIDs": [
-    2
-  ],
+  "QuestGiverIDs": [1],
+  "QuestTurnInIDs": [2],
   "IsAchievement": 0,
   "Objectives": [
     {

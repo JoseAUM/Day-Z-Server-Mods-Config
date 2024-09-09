@@ -34,9 +34,7 @@
   "RandomRewardAmount": -1,
   "RewardsForGroupOwnerOnly": 0,
   "RewardBehavior": 0,
-  "QuestGiverIDs": [
-    5
-  ],
+  "QuestGiverIDs": [5],
   "QuestTurnInIDs": [],
   "IsAchievement": 0,
   "Objectives": [
@@ -49,9 +47,7 @@
   "QuestColor": -256,
   "ReputationReward": 500,
   "ReputationRequirement": -1,
-  "PreQuestIDs": [
-    801
-  ],
+  "PreQuestIDs": [801],
   "RequiredFaction": "",
   "FactionReward": "",
   "PlayerNeedQuestItems": 0,

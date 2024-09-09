@@ -35,9 +35,7 @@
   "RewardsForGroupOwnerOnly": 1,
   "RewardBehavior": 0,
   "QuestGiverIDs": [],
-  "QuestTurnInIDs": [
-    1
-  ],
+  "QuestTurnInIDs": [1],
   "IsAchievement": 0,
   "Objectives": [
     {

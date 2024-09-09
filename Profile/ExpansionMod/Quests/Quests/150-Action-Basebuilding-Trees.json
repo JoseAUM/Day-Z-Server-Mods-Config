@@ -48,9 +48,7 @@
   "RandomRewardAmount": 0,
   "RewardsForGroupOwnerOnly": 0,
   "RewardBehavior": 0,
-  "QuestGiverIDs": [
-    1
-  ],
+  "QuestGiverIDs": [1],
   "QuestTurnInIDs": [],
   "IsAchievement": 0,
   "Objectives": [
