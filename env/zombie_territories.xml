@@ -68,7 +68,8 @@
         <zone name="InfectedArmy" smin="0" smax="1" dmin="6" dmax="14" x="2703" z="6757.38" r="80"/>
         <zone name="InfectedArmy" smin="8" smax="12" dmin="8" dmax="16" x="1526" z="13624" r="140"/>
         <zone name="InfectedArmy" smin="0" smax="1" dmin="4" dmax="16" x="6333" z="7806" r="70"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="0" x="3705" z="5982" r="80"/>    <!-- Green Mountain Trader -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="0" x="3705" z="5982" r="80"/>
+        <!-- Green Mountain Trader -->
         <zone name="InfectedArmy" smin="0" smax="1" dmin="6" dmax="14" x="4063.29" z="11645.1" r="100"/>
         <zone name="InfectedArmy" smin="0" smax="1" dmin="6" dmax="14" x="770" z="1876" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="1" dmin="6" dmax="14" x="338" z="9368" r="80"/>
@@ -548,7 +549,7 @@
         <zone name="InfectedCity" smin="5" smax="7" dmin="5" dmax="10" x="6471.43" z="2359.29" r="160"/>
         <zone name="InfectedCity" smin="5" smax="7" dmin="10" dmax="15" x="11048.6" z="12372.9" r="120"/>
         <zone name="InfectedCity" smin="5" smax="7" dmin="5" dmax="10" x="5685" z="2370" r="100"/>
-<!--BEGIN EXTRA CITY SPAWNS-->
+        <!--BEGIN EXTRA CITY SPAWNS-->
         <zone name="InfectedCity" smin="5" smax="8" dmin="10" dmax="20" x="6709.29" z="2565.92" r="400"/>
         <zone name="InfectedCity" smin="5" smax="8" dmin="20" dmax="30" x="7765.09" z="12650.8" r="400"/>
         <zone name="InfectedCity" smin="5" smax="8" dmin="10" dmax="20" x="12890.3" z="10072.1" r="400"/>
@@ -583,7 +584,7 @@
         <zone name="InfectedCity" smin="5" smax="8" dmin="10" dmax="20" x="6471.43" z="2359.29" r="400"/>
         <zone name="InfectedCity" smin="5" smax="8" dmin="20" dmax="30" x="11048.6" z="12372.9" r="400"/>
         <zone name="InfectedCity" smin="5" smax="8" dmin="10" dmax="20" x="5685" z="2370" r="400"/>
-<!--END EXTRA CITY SPAWNS-->
+        <!--END EXTRA CITY SPAWNS-->
     </territory>
     <territory color="1910952871">
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="10710" z="10840" r="100"/>
@@ -643,7 +644,8 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="6258.75" z="3783.75" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="12" dmax="20" x="10312.5" z="3502.5" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="12" dmax="20" x="9277.5" z="4961.25" r="100"/>
-        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="0" x="8366.25" z="5981.25" r="100"/>    <!-- Kumyma Trader -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="0" x="8366.25" z="5981.25" r="100"/>
+        <!-- Kumyma Trader -->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="11515.5" z="5020.5" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="12180" z="5049" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="12297" z="5586" r="60"/>
@@ -698,140 +700,192 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="3300" z="15007.5" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="11035" z="6665" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="8" x="3005" z="6732.5" r="80"/>
-<!--***************BEGIN SOLITUDE ADDED ***************************-->
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="829.3326" z="3173.655" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3010.17" z="3509.332" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4945.28" z="3600.88" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="6665.377" z="3692.427" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8262.609" z="3783.975" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9736.979" z="3326.235" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10965.62" z="4119.652" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12439.99" z="4668.941" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12655" z="6286.29" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12224.98" z="7934.155" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12071.4" z="9429.439" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12378.56" z="10741.63" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12777.87" z="12236.91" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="13300.04" z="13732.2" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10689.18" z="13884.78" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9122.658" z="13823.75" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7095.401" z="13762.71" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5528.884" z="13671.17" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3409.479" z="13427.04" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1904.393" z="12877.75" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1197.925" z="11290.92" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1075.061" z="9490.472" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1044.345" z="7567.962" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1167.209" z="6164.225" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="982.9127" z="4791.004" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="2887.306" z="5035.133" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4484.54" z="5401.325" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5928.192" z="5431.841" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7679.006" z="5431.841" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8999.795" z="5767.517" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10965.62" z="6103.193" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10873.47" z="7751.059" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10658.46" z="9765.116" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="11272.78" z="11565.56" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10259.15" z="12542.07" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8815.499" z="12694.65" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7279.697" z="12725.17" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5866.76" z="12358.98" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3839.503" z="12053.82" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3102.318" z="11382.46" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="2918.022" z="9643.052" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3255.898" z="8452.927" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3470.91" z="7049.19" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5098.86" z="7812.09" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7095.401" z="8147.767" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9214.807" z="7628.994" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9460.535" z="8849.636" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9122.658" z="10100.79" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7586.857" z="10222.86" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="6204.636" z="10131.31" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="552.8884" z="13640.65" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1720.097" z="15166.45" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4638.119" z="15074.9" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7955.45" z="15074.9" r="1000"/>
-         <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12040.68" z="15074.9" r="1000"/>
-		<!-- Shipwreck -->
-		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13944.5" z="11175.7" r="100"/>
-		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13745.3" z="11201.1" r="100"/>
-		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13624" z="11164.2" r="100"/>
-		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13817.6" z="11190.5" r="100"/>
-<!--***************END SOLITUDE ADDED ***************************-->
+        <!--***************BEGIN SOLITUDE ADDED ***************************-->
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="829.3326" z="3173.655" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3010.17" z="3509.332" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4945.28" z="3600.88" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="6665.377" z="3692.427" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8262.609" z="3783.975" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9736.979" z="3326.235" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10965.62" z="4119.652" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12439.99" z="4668.941" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12655" z="6286.29" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12224.98" z="7934.155" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12071.4" z="9429.439" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12378.56" z="10741.63" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12777.87" z="12236.91" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="13300.04" z="13732.2" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10689.18" z="13884.78" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9122.658" z="13823.75" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7095.401" z="13762.71" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5528.884" z="13671.17" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3409.479" z="13427.04" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1904.393" z="12877.75" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1197.925" z="11290.92" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1075.061" z="9490.472" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1044.345" z="7567.962" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1167.209" z="6164.225" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="982.9127" z="4791.004" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="2887.306" z="5035.133" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4484.54" z="5401.325" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5928.192" z="5431.841" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7679.006" z="5431.841" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8999.795" z="5767.517" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10965.62" z="6103.193" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10873.47" z="7751.059" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10658.46" z="9765.116" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="11272.78" z="11565.56" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="10259.15" z="12542.07" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="8815.499" z="12694.65" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7279.697" z="12725.17" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5866.76" z="12358.98" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3839.503" z="12053.82" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3102.318" z="11382.46" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="2918.022" z="9643.052" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3255.898" z="8452.927" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="3470.91" z="7049.19" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="5098.86" z="7812.09" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7095.401" z="8147.767" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9214.807" z="7628.994" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9460.535" z="8849.636" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="9122.658" z="10100.79" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7586.857" z="10222.86" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="6204.636" z="10131.31" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="552.8884" z="13640.65" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="1720.097" z="15166.45" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="4638.119" z="15074.9" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="7955.45" z="15074.9" r="1000"/>
+        <zone name="InfectedSolitude" smin="2" smax="3" dmin="3" dmax="6" x="12040.68" z="15074.9" r="1000"/>
+        <!-- Shipwreck -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13944.5" z="11175.7" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13745.3" z="11201.1" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13624" z="11164.2" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="10" x="13817.6" z="11190.5" r="100"/>
+        <!--***************END SOLITUDE ADDED ***************************-->
 
-<!--***************ADDED (clean this up someday)***************************-->
-        <zone name="InfectedCity" smin="15" smax="20" dmin="15" dmax="20" x="10493.9" z="2349.17" r="400" d="2"/> <!--more elektro spread out-->
-        <zone name="InfectedArmy" smin="5" smax="10" dmin="5" dmax="10" x="10493.9" z="2349.17" r="90" d="2"/> <!-- elektro around military tent-->
-        <zone name="InfectedArmy" smin="2" smax="3" dmin="2" dmax="4" x="10223.00" z="2569.55" r="35" d="2"/> <!-- elektro skewl-->
-        <zone name="InfectedCity" smin="3" smax="4" dmin="4" dmax="10" x="2783.77" z="1196.29" r="30" d="2"/> <!-- elektro skewl-->
+        <!--***************ADDED (clean this up someday)***************************-->
+        <zone name="InfectedCity" smin="15" smax="20" dmin="15" dmax="20" x="10493.9" z="2349.17" r="400" d="2"/>
+        <!--more elektro spread out-->
+        <zone name="InfectedArmy" smin="5" smax="10" dmin="5" dmax="10" x="10493.9" z="2349.17" r="90" d="2"/>
+        <!-- elektro around military tent-->
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="2" dmax="4" x="10223.00" z="2569.55" r="35" d="2"/>
+        <!-- elektro skewl-->
+        <zone name="InfectedCity" smin="3" smax="4" dmin="4" dmax="10" x="2783.77" z="1196.29" r="30" d="2"/>
+        <!-- elektro skewl-->
 
-        <zone name="InfectedCity" smin="10" smax="35" dmin="30" dmax="40" x="6501.6" z="2518.65" r="400" d="2"/> <!--cherno city center-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="25" dmax="30" x="6572.6" z="2442.65" r="100" d="2"/> <!--cmain square-->
-        <zone name="InfectedArmy" smin="5" smax="10" dmin="5" dmax="10" x="7241.66" z="3038.28" r="150" d="2"/> <!-- cherno around military tent-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="7923.6" z="3079.65" r="250" d="2"/> <!--prig industrial east-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="40" x="7470.6" z="3161.65" r="350" d="2"/> <!--cherno entrance east-->
-        <zone name="InfectedCity" smin="15" smax="20" dmin="30" dmax="40" x="6578.6" z="3009.65" r="300" d="2"/> <!--cherno east roundabout-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="7181.6" z="2579.65" r="250" d="2"/> <!--cherno south industrial by containers-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="20" x="6473.6" z="2714.65" r="250" d="2"/> <!--cherno hospital-->
-        <zone name="InfectedMedic" smin="5" smax="10" dmin="5" dmax="10" x="6473.6" z="2714.65" r="150" d="2"/><!--cherno hospital-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="15" dmax="25" x="6708.6" z="936.65" r="200" d="2"/> <!--cherno church graveyard-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="6303.6" z="2475.65" r="250" d="2"/> <!--cherno west entrance-->
-        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="50" x="6704.6" z="3581.65" r="250" d="2"/> <!--dubky apts-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="6117.6" z="3131.65" r="300" d="2"/> <!--novoselky apts-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="5734.6" z="2528.65" r="300" d="2"/> <!--vysotovo apts-->
+        <zone name="InfectedCity" smin="10" smax="35" dmin="30" dmax="40" x="6501.6" z="2518.65" r="400" d="2"/>
+        <!--cherno city center-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="25" dmax="30" x="6572.6" z="2442.65" r="100" d="2"/>
+        <!--cmain square-->
+        <zone name="InfectedArmy" smin="5" smax="10" dmin="5" dmax="10" x="7241.66" z="3038.28" r="150" d="2"/>
+        <!-- cherno around military tent-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="7923.6" z="3079.65" r="250" d="2"/>
+        <!--prig industrial east-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="40" x="7470.6" z="3161.65" r="350" d="2"/>
+        <!--cherno entrance east-->
+        <zone name="InfectedCity" smin="15" smax="20" dmin="30" dmax="40" x="6578.6" z="3009.65" r="300" d="2"/>
+        <!--cherno east roundabout-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="7181.6" z="2579.65" r="250" d="2"/>
+        <!--cherno south industrial by containers-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="20" x="6473.6" z="2714.65" r="250" d="2"/>
+        <!--cherno hospital-->
+        <zone name="InfectedMedic" smin="5" smax="10" dmin="5" dmax="10" x="6473.6" z="2714.65" r="150" d="2"/>
+        <!--cherno hospital-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="15" dmax="25" x="6708.6" z="936.65" r="200" d="2"/>
+        <!--cherno church graveyard-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="6303.6" z="2475.65" r="250" d="2"/>
+        <!--cherno west entrance-->
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="50" x="6704.6" z="3581.65" r="250" d="2"/>
+        <!--dubky apts-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="6117.6" z="3131.65" r="300" d="2"/>
+        <!--novoselky apts-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="25" x="5734.6" z="2528.65" r="300" d="2"/>
+        <!--vysotovo apts-->
 
-        <zone name="InfectedArmy" smin="5" smax="25" dmin="15" dmax="30" x="4941.422" z="2446.55" r="250" d="2"/> <!-- balota terminal-->
-        <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="20" x="4941.422" z="2446.55" r="100" d="2"/> <!-- balota terminal-->
+        <zone name="InfectedArmy" smin="5" smax="25" dmin="15" dmax="30" x="4941.422" z="2446.55" r="250" d="2"/>
+        <!-- balota terminal-->
+        <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="20" x="4941.422" z="2446.55" r="100" d="2"/>
+        <!-- balota terminal-->
 
-        <zone name="InfectedArmy" smin="5" smax="20" dmin="15" dmax="25" x="5245.422" z="2178.55" r="130" d="2"/> <!-- balota far east side-->
-        <zone name="InfectedArmy" smin="5" smax="20" dmin="15" dmax="25" x="5079.422" z="2295.55" r="100" d="2"/> <!-- balota tent just east of term-->
-        <zone name="InfectedCity" smin="6" smax="8" dmin="3" dmax="10" x="5018.84" z="2622.53" r="75" d="2"/> <!-- balota woods body pile-->
-
-
-
-        <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="25" x="841.422" z="1939.55" r="50" d="2"/> <!--kamenka car pile up-->
-        <zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="15" x="841.422" z="1939.55" r="100" d="2"/> <!-- kamenka car pile up-->
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="754.422" z="1882.55" r="50" d="2"/> <!-- kamenka tents-->
-
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="200" d="2"/> <!-- zeleno military-->
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="500" d="2"/> <!-- zeleno military-->
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="400" d="2"/> <!-- zeleno military-->
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="350" d="2"/> <!-- zeleno military-->
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="300" d="2"/> <!-- zeleno military-->
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="20" x="4941.422" z="2446.55" r="400" d="2"/> <!-- zeleno city-->
-
-        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="25" x="4503.10" z="8281.33" r="140" d="2"/> <!-- dichina military-->
-        <zone name="InfectedArmy" smin="5" smax="6" dmin="15" dmax="20" x="4032.07" z="11749.72" r="175" d="2"/> <!-- nwaf far north compound-->
-        <zone name="InfectedArmy" smin="15" smax="20" dmin="20" dmax="30" x="4543.44" z="9591.40" r="200" d="2"/> <!-- nwaf sw compound-->
-        <zone name="InfectedArmy" smin="8" smax="10" dmin="15" dmax="30" x="4209.01" z="10445.01" r="300" d="2"/> <!-- nwaf upper w compound-->
-        <zone name="InfectedArmy" smin="8" smax="20" dmin="15" dmax="30" x="5255.09" z="9851.95" r="250" d="2"/> <!-- nwaf se compound-->
-        <zone name="InfectedArmy" smin="6" smax="12" dmin="15" dmax="20" x="4663.02" z="10459.10" r="350" d="2"/> <!-- nwaf atc area-->
-        <zone name="InfectedArmy" smin="6" smax="12" dmin="15" dmax="20" x="4663.02" z="10566.53" r="175" d="2"/> <!-- nwaf barrack/garages eastside-->
-        <zone name="InfectedArmy" smin="10" smax="20" dmin="15" dmax="20" x="4780.66" z="10419.73" r="500" d="2"/> <!-- nwaf hangar area-->
-
-        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="25" x="1516.03" z="13608.61" r="300" d="2"/> <!-- tisy south compound-->
-        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="30" x="1574.36" z="14359.16" r="400" d="2"/> <!-- tisy northside-->
-
-        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="20" x="7883.90" z="14693.60" r="300" d="2"/> <!-- kamensk military-->
-
-        <zone name="InfectedArmy" smin="4" smax="5" dmin="5" dmax="15" x="1152.43" z="7235.23" r="200" d="2"/> <!-- myshkino military-->
-
-        <zone name="InfectedArmy" smin="1" smax="2" dmin="1" dmax="2" x="13307.78" z="6133.21" r="50"/> <!-- solnichy quarry barracks-->
-        <zone name="InfectedIndustrial" smin="4" smax="6" dmin="5" dmax="10" x="13276.18" z="6099.19" r="100"/> <!-- solnichy quarry-->
+        <zone name="InfectedArmy" smin="5" smax="20" dmin="15" dmax="25" x="5245.422" z="2178.55" r="130" d="2"/>
+        <!-- balota far east side-->
+        <zone name="InfectedArmy" smin="5" smax="20" dmin="15" dmax="25" x="5079.422" z="2295.55" r="100" d="2"/>
+        <!-- balota tent just east of term-->
+        <zone name="InfectedCity" smin="6" smax="8" dmin="3" dmax="10" x="5018.84" z="2622.53" r="75" d="2"/>
+        <!-- balota woods body pile-->
 
 
-        <zone name="InfectedCity" smin="2" smax="3" dmin="5" dmax="10" x="11869.41" z="12433.68" r="50" d="2"/> <!--neaf civ hangar-->
-        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="11988.02" z="12479.86" r="75" d="2"/> <!-- neaf barracks group-->
-        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="12216.02" z="12403.9" r="75" d="2"/> <!-- neaf atc/camo building-->
-        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="12119.75" z="12658.75" r="75" d="2"/> <!-- neaf hq building-->
+
+        <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="25" x="841.422" z="1939.55" r="50" d="2"/>
+        <!--kamenka car pile up-->
+        <zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="15" x="841.422" z="1939.55" r="100" d="2"/>
+        <!-- kamenka car pile up-->
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="754.422" z="1882.55" r="50" d="2"/>
+        <!-- kamenka tents-->
+
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="200" d="2"/>
+        <!-- zeleno military-->
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="500" d="2"/>
+        <!-- zeleno military-->
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="400" d="2"/>
+        <!-- zeleno military-->
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="350" d="2"/>
+        <!-- zeleno military-->
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="20" x="2511.57" z="5076.39" r="300" d="2"/>
+        <!-- zeleno military-->
+        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="20" x="4941.422" z="2446.55" r="400" d="2"/>
+        <!-- zeleno city-->
+
+        <zone name="InfectedArmy" smin="10" smax="15" dmin="10" dmax="25" x="4503.10" z="8281.33" r="140" d="2"/>
+        <!-- dichina military-->
+        <zone name="InfectedArmy" smin="5" smax="6" dmin="15" dmax="20" x="4032.07" z="11749.72" r="175" d="2"/>
+        <!-- nwaf far north compound-->
+        <zone name="InfectedArmy" smin="15" smax="20" dmin="20" dmax="30" x="4543.44" z="9591.40" r="200" d="2"/>
+        <!-- nwaf sw compound-->
+        <zone name="InfectedArmy" smin="8" smax="10" dmin="15" dmax="30" x="4209.01" z="10445.01" r="300" d="2"/>
+        <!-- nwaf upper w compound-->
+        <zone name="InfectedArmy" smin="8" smax="20" dmin="15" dmax="30" x="5255.09" z="9851.95" r="250" d="2"/>
+        <!-- nwaf se compound-->
+        <zone name="InfectedArmy" smin="6" smax="12" dmin="15" dmax="20" x="4663.02" z="10459.10" r="350" d="2"/>
+        <!-- nwaf atc area-->
+        <zone name="InfectedArmy" smin="6" smax="12" dmin="15" dmax="20" x="4663.02" z="10566.53" r="175" d="2"/>
+        <!-- nwaf barrack/garages eastside-->
+        <zone name="InfectedArmy" smin="10" smax="20" dmin="15" dmax="20" x="4780.66" z="10419.73" r="500" d="2"/>
+        <!-- nwaf hangar area-->
+
+        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="25" x="1516.03" z="13608.61" r="300" d="2"/>
+        <!-- tisy south compound-->
+        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="30" x="1574.36" z="14359.16" r="400" d="2"/>
+        <!-- tisy northside-->
+
+        <zone name="InfectedArmy" smin="4" smax="5" dmin="10" dmax="20" x="7883.90" z="14693.60" r="300" d="2"/>
+        <!-- kamensk military-->
+
+        <zone name="InfectedArmy" smin="4" smax="5" dmin="5" dmax="15" x="1152.43" z="7235.23" r="200" d="2"/>
+        <!-- myshkino military-->
+
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="1" dmax="2" x="13307.78" z="6133.21" r="50"/>
+        <!-- solnichy quarry barracks-->
+        <zone name="InfectedIndustrial" smin="4" smax="6" dmin="5" dmax="10" x="13276.18" z="6099.19" r="100"/>
+        <!-- solnichy quarry-->
 
 
-        <zone name="InfectedArmy" smin="3" smax="6" dmin="4" dmax="10" x="2600.02" z="1305.66" r="50" d="2"/> <!-- prison island mil area-->
-        <zone name="InfectedCity" smin="5" smax="10" dmin="5" dmax="20" x="2783.77" z="1196.29" r="35" d="2"/> <!-- prison island fenced in prison area-->
+        <zone name="InfectedCity" smin="2" smax="3" dmin="5" dmax="10" x="11869.41" z="12433.68" r="50" d="2"/>
+        <!--neaf civ hangar-->
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="11988.02" z="12479.86" r="75" d="2"/>
+        <!-- neaf barracks group-->
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="12216.02" z="12403.9" r="75" d="2"/>
+        <!-- neaf atc/camo building-->
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="10" x="12119.75" z="12658.75" r="75" d="2"/>
+        <!-- neaf hq building-->
 
-<!--***************END ADDED***************************-->
+
+        <zone name="InfectedArmy" smin="3" smax="6" dmin="4" dmax="10" x="2600.02" z="1305.66" r="50" d="2"/>
+        <!-- prison island mil area-->
+        <zone name="InfectedCity" smin="5" smax="10" dmin="5" dmax="20" x="2783.77" z="1196.29" r="35" d="2"/>
+        <!-- prison island fenced in prison area-->
+
+        <!--***************END ADDED***************************-->
     </territory>
 </territory-type>
 <!--******************************************-->

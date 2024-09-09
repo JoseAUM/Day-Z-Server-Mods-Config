@@ -99,7 +99,7 @@
     </territory>
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3697.5" z="8272.5" r="90" d="2"/>
- <!--   <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3615" z="6952.5" r="82.5" d="2"/>			 Green Mt Trader -->
+        <!--   <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3615" z="6952.5" r="82.5" d="2"/>			 Green Mt Trader -->
     </territory>
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1522.5" z="12022.5" r="127.5" d="2"/>
@@ -142,7 +142,7 @@
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7500" z="5152.5" r="127.5" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7732.5" z="5152.5" r="105" d="2"/>
-<!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8415" z="4957.5" r="90" d="2"/>     Kumyma Trader -->
+        <!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8415" z="4957.5" r="90" d="2"/>     Kumyma Trader -->
     </territory>
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="14827.5" z="14565" r="75" d="2"/>
@@ -387,7 +387,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4522.5" z="8280" r="120" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5347.5" z="8587.5" r="120" d="2"/>
     </territory>
-	<!-- Kumyma Trader 
+    <!-- Kumyma Trader 
 	<territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8370" z="5977.5" r="105" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8497.5" z="6652.5" r="97.5" d="2"/>
@@ -436,7 +436,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2970" z="5407.5" r="90" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2662.5" z="5977.5" r="90" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2505" z="5407.5" r="82.5" d="2"/>
-<!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3187.5" z="5197.5" r="75" d="2"/>			Green Mt Trader -->
+        <!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3187.5" z="5197.5" r="75" d="2"/>			Green Mt Trader -->
     </territory>
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3142.5" z="4042.5" r="82.5" d="2"/>
@@ -479,7 +479,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12172.5" z="9787.5" r="82.5" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12922.5" z="10260" r="75" d="2"/>
     </territory>
-	<!-- Green Mt Trader 
+    <!-- Green Mt Trader 
 	<territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4492.5" z="6412.5" r="127.5" d="2"/>
 		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3705" z="5985" r="90" d="2"/>
@@ -611,13 +611,15 @@
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2235" z="12990" r="75" d="2"/>
     </territory>
-	<territory color="3556750600">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5018.84" z="2622.53" r="75" d="2"/> <!-- balota woods body pile -->
+    <territory color="3556750600">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5018.84" z="2622.53" r="75" d="2"/>
+        <!-- balota woods body pile -->
     </territory>
-	<territory color="3556750600">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="11075.2" z="11387.9" r="75" d="2"/> <!-- empty patch -->
+    <territory color="3556750600">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="11075.2" z="11387.9" r="75" d="2"/>
+        <!-- empty patch -->
     </territory>
-	<territory color="3556750600">
+    <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="829.3326" z="3173.655" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3010.17" z="3509.332" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4945.28" z="3600.88" r="150" d="2"/>
@@ -647,7 +649,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4484.54" z="5401.325" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5928.192" z="5431.841" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7679.006" z="5431.841" r="150" d="2"/>
-<!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8999.795" z="5767.517" r="150" d="2"/>     Kumyma Trader -->
+        <!--    <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8999.795" z="5767.517" r="150" d="2"/>     Kumyma Trader -->
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="10965.62" z="6103.193" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="10873.47" z="7751.059" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="10658.46" z="9765.116" r="150" d="2"/>
@@ -673,9 +675,9 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4638.119" z="15074.9" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7955.45" z="15074.9" r="150" d="2"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12040.68" z="15074.9" r="150" d="2"/>
-		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13944.5" z="11175.7" r="150" d="2"/>
-		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13745.3" z="11201.1" r="150" d="2"/>
-		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13624" z="11164.2" r="150" d="2"/>
-		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13817.6" z="11190.5" r="150" d="2"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13944.5" z="11175.7" r="150" d="2"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13745.3" z="11201.1" r="150" d="2"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13624" z="11164.2" r="150" d="2"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="13817.6" z="11190.5" r="150" d="2"/>
     </territory>
 </territory-type>

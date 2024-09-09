@@ -539,7 +539,7 @@
     <territory color="3002332147">
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="3082.5" z="5685" r="165" d="2"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="2437.5" z="6045" r="157.5" d="2"/>
- <!--   <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="3502.5" z="5542.5" r="142.5" d="2"/>     Green Mt Trader -->
+        <!--   <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="3502.5" z="5542.5" r="142.5" d="2"/>     Green Mt Trader -->
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="2970" z="5955" r="112.5" d="2"/>
     </territory>
     <territory color="3002332147">
@@ -547,7 +547,7 @@
     </territory>
     <territory color="3002332147">
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="8542.5" z="6345" r="195" d="2"/>
- <!--   <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="8910" z="6052.5" r="180" d="2"/>     Kumyma Trader -->
+        <!--   <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="8910" z="6052.5" r="180" d="2"/>     Kumyma Trader -->
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="8857.5" z="6420" r="120" d="2"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="0" x="9712.5" z="6097.5" r="112.5" d="2"/>
     </territory>
