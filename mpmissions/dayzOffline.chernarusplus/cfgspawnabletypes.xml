@@ -4016,4 +4016,19 @@
 	<type name="Creature_Wendigo">
 		<cargo preset="ammoArmy" />
 	</type>
+
+	<!-- CS MUTANT MOD -->
+	<type name="SMCS_Mutant">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+
+	<type name="SMCS_Zombie">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
 </spawnabletypes>
